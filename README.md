@@ -1,4 +1,4 @@
-# RociFi Capital-Efficient Lending Protocol Example Datasets
+# RociFi: Under-Collateralized and Capital-Efficient Lending Protocol Example Datasets
 
 This document provides specifications for the historical data events in the Roci.Fi protocol, focusing on two primary datasets:
 
